@@ -1,0 +1,4 @@
+Zákazník: "Mám nainstalovaný Windows Vista."
+Hotline: "OK."
+Zákazník: "Počítač mi nefunguje."
+Hotline: "Ano, to jste už říkal..."
